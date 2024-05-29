@@ -4,7 +4,7 @@
 
 ```mermaid
 ---
-title: KevinZonda Topology
+title: KevinZonda's Node Topology
 ---
 flowchart LR
     subgraph BHAM["Birmingham Pod"]
@@ -43,7 +43,7 @@ flowchart LR
 
 ```mermaid
 ---
-title: KevinZonda Service Topology
+title: KevinZonda's Services Topology
 ---
 flowchart LR
     grafana[Grafana<br>127.0.0.1:3947]
