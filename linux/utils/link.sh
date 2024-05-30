@@ -1,1 +1,1 @@
-ln -s /usr/bin/where /usr/bin/whereis
+ln -s /usr/bin/whereis /usr/bin/where
